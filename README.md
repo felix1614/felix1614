@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Afnan and I'm a full-stack Software Engineer from 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Afnan and I'm a Full-Stack Software Engineer from 🇮🇳</h2>
 
 ###
 
@@ -24,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
@@ -39,19 +39,47 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
+---
 
+## 🚀 About Me
+I’m a **Full-Stack Engineer (Python + Angular)** with **4 years of experience** in building **scalable backends, IoT integrations, and automation platforms**.  
+My work bridges industrial protocols, modern APIs, and user-friendly dashboards.
+
+---
+
+## 🛠 Tech Stack
+- **Backend:** Python (FastAPI, Flask, Django), SQLAlchemy, REST APIs, OpenAPI/Swagger  
+- **Frontend:** Angular, RxJS, ag-Grid, NgRx, PrimeNg
+- **IoT Protocols:** MQTT, Modbus TCP/IP, BACnet, OPC-UA, M-Bus  
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
+- **Security:** JWT/OAuth2, TLS/mTLS, Certificate Automation (AppViewX, PKI)  
+
+---
+
+## 📂 Featured Projects
+### 🔹 IoT Device Manager
+- Real-time ingestion from **3.5K+ smart meters** via MQTT/Modbus.  
+- Built with **FastAPI + PostgreSQL + Redis**.  
+- Achieved **25K msgs/sec ingestion** with live dashboards (Angular + RxJS).  
+
+### 🔹 PKI Automation Workflows
+- Automated cert issuance/renewal using **AppViewX**.  
+- Integrated with **ServiceNow** for request approvals.  
+- Reduced manual certificate ops by **70%**.  
+
+### 🔹 Full-Stack Dashboard
+- Angular app with **ag-Grid custom cell renderers** and **role-based access**.  
+- Backend powered by **FastAPI** with JWT auth.  
+- Enabled real-time alerting + reporting.  
+
+---
+
+## 📫 Connect with Me
 <div align="left">
-  <a href="afnanahmed7874@gmail.com" target="_blank">
+  <a href="mailto:afnanahmed7874@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/afnan-ahmed-k-v/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-###
